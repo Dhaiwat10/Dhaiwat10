@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps, Cloud Engineering & a bit of Data Science**
 
-- 💬 Ask me about **TypeScript, React, NextJS, Tailwind, Serverless development,**
+- 💬 Ask me about **TypeScript, React, NextJS, Tailwind, Serverless development**
 
 - 📫 How to reach me **dhaiwatpandya@gmail.com**
 
