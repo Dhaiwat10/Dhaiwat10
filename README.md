@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhaiwat10" target="blank"><img src="https://img.shields.io/twitter/follow/dhaiwat10?logo=twitter&style=for-the-badge" alt="dhaiwat10" /></a> </p>
 
-- 🔭 I’m currently working on [Project Lockdown](https://projectlockdown.world)
+- 🔭 I’m currently working on [Project Lockdown](https://projectlockdown.world) & [Clean Twitter](https://github.com/Dhaiwat10/clean-twitter)
 
 - 🌱 I’m currently learning **DevOps, Cloud Engineering & a bit of Data Science**
 
