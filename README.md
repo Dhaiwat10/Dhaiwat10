@@ -3,10 +3,8 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 💼 &nbsp; I'm a freelance full-stack developer.
 - 🔭 &nbsp; I’m currently learning blockchain development and ethereum smart contracts.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Engineering.
-- 💼 &nbsp; Full-stack developer.
 - 🌱 &nbsp; Blockchain and open-source enthusiast.
 - ✍️ &nbsp; Lifelong Barça fan and a hardcore FPS gamer.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
