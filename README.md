@@ -6,7 +6,7 @@
 - 💼 &nbsp; I'm a freelance full-stack developer.
 - 🔭 &nbsp; I’m currently learning blockchain development and ethereum smart contracts.
 - 🌱 &nbsp; Blockchain and open-source enthusiast.
-- ✍️ &nbsp; Lifelong Barça fan and a hardcore FPS gamer.
+- ⚽ &nbsp; Lifelong Barça fan, cinephile and a hardcore gamer.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
