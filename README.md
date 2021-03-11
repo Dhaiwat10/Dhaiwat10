@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; TypeScript | JavaScript | React | Node | React Native
-- 🛢 &nbsp; MySQL | Firebase | AWS
+- 🛢 &nbsp; PostgreSQL | Mongo | Firebase | AWS
 
 <br>
 
