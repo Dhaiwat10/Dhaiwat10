@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | JavaScript | React | Node | React Native
-- 🛢 &nbsp; PostgreSQL | Mongo | Firebase | AWS
+- 💻 &nbsp; TypeScript | Solidity | JavaScript | React | Node | React Native
+- 🛢 &nbsp; AWS | Firebase | PostgreSQL | Mongo 
 
 <br>
 <br>
