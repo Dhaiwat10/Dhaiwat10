@@ -6,7 +6,7 @@ I am a 20-year-old full-stack software engineer.
 
 ## Technologies I use
 
-I am well-versed with **React** (TypeScript & Next/Gatsby/Tailwind), **Node**, **Serverless** development, **Ethereum smart contracts/dapps** (Solidity + Hardhat).
+I am well-versed with **React**, **TypeScript**, **Node**, **Serverless** development, **Ethereum smart contracts/dapps** (Solidity + Hardhat).
 
 ## Contact
 
