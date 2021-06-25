@@ -17,3 +17,5 @@
 ## Contact
 
 📩 I am open to freelance/contract project opportunities. Please <a href="mailto:dhaiwatpandya@gmail.com">click here</a> to send me an email!
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaiwat10&include_all_commits=true)
