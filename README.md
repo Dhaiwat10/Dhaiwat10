@@ -4,7 +4,7 @@
 
 🔨 I have built [react-link-preview](https://www.npmjs.com/package/@dhaiwat10/react-link-preview), [zen](https://zenquotes.dhaiwatpandya.com), [Ropsten Faucet](https://ropsten-faucet.dhaiwatpandya.com/) and [Clean Twitter](https://chrome.google.com/webstore/detail/clean-twitter/ibcjnfhpdjinbcmojnmpnokcgfljiebb?hl=en&authuser=0).
 
-💖 I have contributed to [daily.dev](https://github.com/dailydotdev/apps) & [Project Lockdown](https://github.com/TheIOFoundation/ProjectLockdown).
+💖 I have contributed to [Supabase](https://github.com/supabase/supabase), [daily.dev](https://github.com/dailydotdev/apps) & [Project Lockdown](https://github.com/TheIOFoundation/ProjectLockdown).
 
 ✍ I write about building quality software at [my blog](https://blog.dhaiwatpandya.com).
 
