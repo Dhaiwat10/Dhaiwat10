@@ -1,7 +1,7 @@
 ## About me
 I am a seasoned full-stack engineer well-versed with the JavaScript ecosystem, specializing in React & TypeScript. I work remotely as a contractor with teams around the world. 
 
-[Email](mailto:dhaiwatpandya@gmail.com)
+[Email](mailto:dhaiwatpandya@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;[Website](https://dhaiwatpandya.com)
 ## My best work
 - [react-link-preview](github.com/dhaiwat10/react-link-preview) — React library with 3k+ downloads
 - [react-agora](github.com/dhaiwat10/react-agora) — A React wrapper for [AgoraRTC](https://www.agora.io/en/)
