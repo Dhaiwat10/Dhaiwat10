@@ -1,5 +1,5 @@
-I mostly work in and around the Javascript-Typescript ecosystem, specializing in React.
-
+## About me
+I am a seasoned full-stack engineer well-versed with the JavaScript ecosystem specializing in React & TypeScript. 
 ## My best work
 - [react-link-preview](github.com/dhaiwat10/react-link-preview) — React library with 3k+ downloads
 - [react-agora](github.com/dhaiwat10/react-agora) — A React wrapper for [AgoraRTC](https://www.agora.io/en/)
