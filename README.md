@@ -1,23 +1,22 @@
-# Hi! I'm Dhaiwat 👋
+## My best work
+- [react-link-preview](github.com/dhaiwat10/react-link-preview) — React library with 3k+ downloads
+- [react-agora](github.com/dhaiwat10/react-agora) — A React wrapper for [AgoraRTC](https://www.agora.io/en/)
+- [Ropsten Faucet](github.com/dhaiwat10/ropsten-faucet) - An Ether faucet running on the Ropsten test network
+- [zen](github.com/dhaiwat10/zenquotes) - Discord bot
 
-⚡ I am a 20-year-old full-stack software engineer.
+## My best articles & talks
+- [Develop & test React components in isolation](https://www.youtube.com/watch?v=rZZItYsH8qg) — a talk given at Reactify India
+- [Become a better writer as a developer](https://blog.dhaiwatpandya.com/become-a-better-writer-as-a-developer) - an article selected as one of the 7 featured posts of the week at [DEV.to](https://dev.to)
 
-🔨 I have built [react-link-preview](https://www.npmjs.com/package/@dhaiwat10/react-link-preview), [zen](https://zenquotes.dhaiwatpandya.com), [Ropsten Faucet](https://ropsten-faucet.dhaiwatpandya.com/) and [Clean Twitter](https://chrome.google.com/webstore/detail/clean-twitter/ibcjnfhpdjinbcmojnmpnokcgfljiebb?hl=en&authuser=0).
-
-💖 I have contributed to [Supabase](https://github.com/supabase/supabase), [daily.dev](https://github.com/dailydotdev/apps) & [Project Lockdown](https://github.com/TheIOFoundation/ProjectLockdown).
-
-✍ I write about building quality software at [my blog](https://blog.dhaiwatpandya.com).
-
-🗣 I [speak](https://youtube.com/playlist?list=PLR2qW6nkUuS_x3u_NDsMerYL2d3jjVJpE) at dev conferences.
-
-✨ <a href="https://dhaiwatpandya.com" target="_blank">Click here to view my portfolio.</a>
-
-## Technologies I use
-
-🪐 I am well-versed with **React**, **TypeScript**, **Node**, **Serverless** development, **Ethereum smart contracts/dapps**.
-
-## Contact
-
-📩 I am open to freelance/contract project opportunities. Please <a href="mailto:dhaiwatpandya@gmail.com">click here</a> to send me an email!
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaiwat10&include_all_commits=true)
+## My open-source contributions
+<div>
+  <a href="https://supabase.io">
+    <img src="https://user-images.githubusercontent.com/39617427/128280825-a5e305ba-22a8-4fd7-a7a8-036282c01b3b.png" alt="Supabase" height="70px" />
+  </a>
+  <a href="https://daily.dev">
+    <img src="https://user-images.githubusercontent.com/39617427/128280702-f54aac4e-60c5-4565-82a4-eade4b8f0d9d.jpg" alt="daily.dev" height="70px" />
+  </a>
+  <a href="https://www.theiofoundation.org/">
+    <img src="https://user-images.githubusercontent.com/39617427/128281452-c7e22a93-f5b7-472c-b553-00d2c6ca667c.png" alt="THE IO Foundation" height="70px" />
+  </a>
+</div>
