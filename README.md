@@ -15,7 +15,7 @@ I am a seasoned full-stack engineer well-versed with the JavaScript ecosystem, s
 ## My open-source contributions
 <div>
   <a href="https://github.com/supabase">
-    <img src="https://user-images.githubusercontent.com/39617427/128280825-a5e305ba-22a8-4fd7-a7a8-036282c01b3b.png" alt="Supabase" height="40px" />
+    <img src="https://user-images.githubusercontent.com/39617427/128469364-4c99a071-574f-454b-ac0b-3ff30156b65b.jpg" alt="Supabase" height="40px" />
   </a>
   <a href="https://daily.dev">
     <img src="https://user-images.githubusercontent.com/39617427/128280702-f54aac4e-60c5-4565-82a4-eade4b8f0d9d.jpg" alt="daily.dev" height="40px" />
