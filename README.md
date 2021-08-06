@@ -14,13 +14,16 @@ I am a seasoned full-stack engineer well-versed with the JavaScript ecosystem, s
 
 ## My open-source contributions
 <div>
-  <a href="https://supabase.io">
-    <img src="https://user-images.githubusercontent.com/39617427/128280825-a5e305ba-22a8-4fd7-a7a8-036282c01b3b.png" alt="Supabase" height="70px" />
+  <a href="https://github.com/supabase">
+    <img src="https://user-images.githubusercontent.com/39617427/128280825-a5e305ba-22a8-4fd7-a7a8-036282c01b3b.png" alt="Supabase" height="60px" />
   </a>
   <a href="https://daily.dev">
-    <img src="https://user-images.githubusercontent.com/39617427/128280702-f54aac4e-60c5-4565-82a4-eade4b8f0d9d.jpg" alt="daily.dev" height="70px" />
+    <img src="https://user-images.githubusercontent.com/39617427/128280702-f54aac4e-60c5-4565-82a4-eade4b8f0d9d.jpg" alt="daily.dev" height="60px" />
+  </a>
+  <a href="https://github.com/JupiterOne">
+    <img src="https://user-images.githubusercontent.com/39617427/128468102-dfbecee1-7c08-4586-93f3-df110463aedd.png" alt="JupiterOne" height="60px" />
   </a>
   <a href="https://www.theiofoundation.org/">
-    <img src="https://user-images.githubusercontent.com/39617427/128281452-c7e22a93-f5b7-472c-b553-00d2c6ca667c.png" alt="THE IO Foundation" height="70px" />
+    <img src="https://user-images.githubusercontent.com/39617427/128281452-c7e22a93-f5b7-472c-b553-00d2c6ca667c.png" alt="THE IO Foundation" height="60px" />
   </a>
 </div>
