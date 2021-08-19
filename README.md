@@ -6,7 +6,7 @@ I am a seasoned full-stack engineer well-versed with the JavaScript ecosystem, s
 - [react-link-preview](github.com/dhaiwat10/react-link-preview) — React library with 3k+ downloads
 - [react-agora](github.com/dhaiwat10/react-agora) — A React wrapper for [AgoraRTC](https://www.agora.io/en/)
 - [Ropsten Faucet](github.com/dhaiwat10/ropsten-faucet) - An Ether faucet running on the Ropsten test network
-- [zen](github.com/dhaiwat10/zenquotes) - Discord bot
+- [Mars Explorer](github.com/dhaiwat10/mars-explorer) - A site that lets you see pictures captured by the Curiosity Rover on an Earth day of your choice 
 
 ## My best articles & talks
 - [Develop & test React components in isolation](https://www.youtube.com/watch?v=rZZItYsH8qg) — a talk given at Reactify India
