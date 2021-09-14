@@ -17,6 +17,9 @@ I am a seasoned full-stack engineer well-versed with the JavaScript ecosystem, s
   <a href="https://github.com/supabase">
     <img src="https://user-images.githubusercontent.com/39617427/128469364-4c99a071-574f-454b-ac0b-3ff30156b65b.jpg" alt="Supabase" height="40px" />
   </a>
+  <a href="https://github.com/developer-dao">
+    <img src="https://raw.githubusercontent.com/Developer-DAO/developer-dao/main/public/logo512.png" alt="Developer DAO" height="40px" />
+  </a>
   <a href="https://daily.dev">
     <img src="https://user-images.githubusercontent.com/39617427/128280702-f54aac4e-60c5-4565-82a4-eade4b8f0d9d.jpg" alt="daily.dev" height="40px" />
   </a>
