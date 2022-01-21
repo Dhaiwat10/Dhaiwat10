@@ -1,1 +1,5 @@
-I'm a 21-year-old full-stack (React, TS, Solidity) software engineer. Right now, I am prototyping cutting-edge web3 ideas with [the Moonshot Collective](https://github.com/moonshotcollective/) (A GitcoinDAO workstream) and creating & maintaining open-source projects with [Developer DAO](https://github.com/developer-dao).
+I'm a 21-yo web3 builder working on building UIs & devtools like [web3-ui](https://github.com/developer-dao/web3-ui) with React. I work at/am a part of the following orgs:
+
+- [Mazury](https://github.com/mazurylabs) - I work here as a frontend engineer
+- [Moonshot Collective](https://github.com/moonshotcollective) - I work here & build innovative web3 prototypes
+- [Developer DAO](https://github.com/developer-dao) - I build open source software here
