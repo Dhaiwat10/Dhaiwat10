@@ -3,3 +3,5 @@ I'm a 21-yo web3 builder working on building UIs & devtools like [web3-ui](https
 - [Mazury](https://github.com/mazurylabs) - I work here as a frontend engineer
 - [Moonshot Collective](https://github.com/moonshotcollective) - I work here & build innovative web3 prototypes
 - [Developer DAO](https://github.com/developer-dao) - I build open source software here
+
+All of my work is free open source software.
