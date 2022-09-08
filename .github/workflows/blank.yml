@@ -12,4 +12,4 @@ jobs:
       - name: repo-backup-arweave
         uses: Dhaiwat10/repo-backup-arweave@v0.3
         with:
-          arweave-key: ${{ secrets.ARWEAVE_WALLET_KEY }}
+          arweaveWalletKey: ${{ secrets.ARWEAVE_WALLET_KEY }}
